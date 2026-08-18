@@ -1,4 +1,4 @@
-<p align="center">  hi
+<p align="center">  this is so cute
 <p align="center" width="500%"> 
-<img width="1282" height="1282" alt="feels the aura" src="https://github.com/user-attachments/assets/62fcdf2c-91d4-41da-8218-b0b5a2556176" />
+<img width="1282" height="1282" alt="screaming"  src="https://github.com/user-attachments/assets/7a09f140-a4f7-4a0f-9bd0-6d957650a652" />
 
